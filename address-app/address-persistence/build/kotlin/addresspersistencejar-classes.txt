@@ -1,0 +1,1 @@
+/Users/Nini/Documents/Ecole/2A/Bonnes Pratiques/sampleApp/address-app/address-persistence/build/classes/kotlin/main/org/sam/mines/address/persistence/SchoolingRepository.class:/Users/Nini/Documents/Ecole/2A/Bonnes Pratiques/sampleApp/address-app/address-persistence/build/classes/kotlin/main/org/sam/mines/address/persistence/TownRepository.class
